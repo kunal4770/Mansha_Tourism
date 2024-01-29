@@ -1,0 +1,33 @@
+SMAP
+ModifyFood_jsp.java
+JSP
+*S JSP
+*F
++ 0 ModifyFood.jsp
+User/ModifyFood.jsp
++ 1 Header.jsp
+User/Header.jsp
++ 2 Aside.jsp
+User/Aside.jsp
++ 3 Footer.jsp
+User/../home/Footer.jsp
+*L
+1,21:52
+1#1,21:73
+22:94,3
+23,25:97
+21#0:121
+1#2,38:122
+22#0,20:159
+42,7:180
+48,2:187
+50,7:189,3
+57,2:210,9
+59:228
+60:229,3
+61:232
+62,4:234
+65,7:238
+1#3,31:244
+71#0,4:274
+*E
